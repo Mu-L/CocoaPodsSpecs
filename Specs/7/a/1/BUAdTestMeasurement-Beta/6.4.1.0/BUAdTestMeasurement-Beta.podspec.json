@@ -30,7 +30,7 @@
   "preserve_paths": "BUAdTestMeasurement/BUAdTestMeasurement.xcframework",
   "dependencies": {
     "Ads-CN-Beta": [
-      "6.4.0.9"
+      "6.4.1.0"
     ]
   }
 }
